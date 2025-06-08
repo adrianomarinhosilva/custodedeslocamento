@@ -1,0 +1,15 @@
+{
+    "name": "Custos de Deslocamento",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "homepage": "https://your-homepage.com",
+    "license": "GPLv3+",
+    "minimum_glpi": "10.0.0",
+    "maximum_glpi": "10.1.0",
+    "requirements": {
+        "php": {
+            "min": "7.4.0"
+        }
+    },
+    "tags": ["travel", "expenses", "cost", "tickets"]
+}

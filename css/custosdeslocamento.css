@@ -1,0 +1,132 @@
+/* Estilos para o plugin Custos de Deslocamento */
+
+.badge {
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.bg-success {
+    background-color: #28a745;
+    color: white;
+}
+
+.bg-info {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.bg-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+.bg-warning {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.alert-info {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-right: 0;
+    border-radius: 4px 0 0 4px;
+}
+
+.input-group .form-control {
+    position: relative;
+    width: 100%;
+    margin-bottom: 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.numeric {
+    text-align: right;
+}
+
+.headerRow {
+    background-color: #f5f5f5;
+    /*font-weight: bold;*/
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    border-radius: 4px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.card-header {
+    transition: background-color 0.3s ease;
+}
+
+/*.card-header:hover {
+    background-color: #6ab29d !important;
+}*/
+
+.input-group-text {
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+}
+
+.btn-success {
+    background-color: #78c2ad;
+    border-color: #78c2ad;
+}
+
+.btn-success:hover {
+    background-color: #66a593;
+    border-color: #66a593;
+}
+
+.form-label {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+}
